@@ -3,7 +3,7 @@ Where would the world's militaries rank if treated as a single country by annual
 # Assessing the Global Military Carbon Bootprint: A Comparative Analysis of Military and Conflict GHG Emissions Against Nation-States
 
 ## Group Members
-* **[Your Full Name]** (Working Solo)
+* **  Reva Bhardwaj** (Working Solo)
 
 ## Question & Hypothesis
 If the world's militaries were aggregated and treated as a single country, where would they rank in annual greenhouse-gas (GHG) emissions compared to recognized national emitters? Furthermore, how do the attributable emissions of specific, acute conflicts compare to the static annual baseline emissions of mid-sized nation-states? 
