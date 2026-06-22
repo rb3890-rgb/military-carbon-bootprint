@@ -16,4 +16,3 @@ This project will aggregate estimated global military greenhouse gas emissions d
 * **SIPRI Military Expenditure Database:** [https://www.sipri.org/databases/milex](https://www.sipri.org/databases/milex) (For national military spending metrics to correlate with carbon footprints)
 * **Conflict and Environment Observatory (CEOBS) Carbon Reports:** [https://ceobs.org/](https://ceobs.org/) (For data tracking greenhouse gas emissions explicitly quantified from recent conflicts)
 * **Brown University Costs of War Project:** [https://watson.brown.edu/costsofwar/](https://watson.brown.edu/costsofwar/) (For baseline fuel usage and operational emission scaling factors)
-* 
