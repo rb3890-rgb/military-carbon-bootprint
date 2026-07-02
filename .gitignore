@@ -1,0 +1,7 @@
+# Large dataset cache — the notebook downloads this automatically on first run
+data/owid-co2-data.csv
+
+# Python / Jupyter cruft
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
